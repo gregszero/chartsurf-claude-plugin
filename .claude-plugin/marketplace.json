@@ -1,0 +1,14 @@
+{
+  "name": "aliahlp",
+  "owner": {
+    "name": "aliahlp",
+    "url": "https://alia.help"
+  },
+  "plugins": [
+    {
+      "name": "aliahlp",
+      "source": "./plugins/aliahlp",
+      "description": "Explore your aliahlp-connected data, run read-only SQL, and publish live charts and dashboards via the aliahlp MCP server."
+    }
+  ]
+}

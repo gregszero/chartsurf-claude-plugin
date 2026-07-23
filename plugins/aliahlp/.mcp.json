@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aliahlp": {
+      "type": "http",
+      "url": "https://api.alia.help/mcp"
+    }
+  }
+}
