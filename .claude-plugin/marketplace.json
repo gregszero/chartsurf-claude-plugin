@@ -1,14 +1,14 @@
 {
-  "name": "aliahlp",
+  "name": "chartsurf",
   "owner": {
-    "name": "aliahlp",
-    "url": "https://alia.help"
+    "name": "chart.surf",
+    "url": "https://chart.surf"
   },
   "plugins": [
     {
-      "name": "aliahlp",
-      "source": "./plugins/aliahlp",
-      "description": "Explore your aliahlp-connected data, run read-only SQL, and publish live charts and dashboards via the aliahlp MCP server."
+      "name": "chartsurf",
+      "source": "./plugins/chartsurf",
+      "description": "Explore your chart.surf-connected data, run read-only SQL, and publish live charts and dashboards via the chart.surf MCP server."
     }
   ]
 }

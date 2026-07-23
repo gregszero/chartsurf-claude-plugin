@@ -1,0 +1,10 @@
+{
+  "name": "chartsurf",
+  "description": "Connects Claude to your chart.surf account: explore your database schema and AI catalog, run read-only SQL, and create live hosted charts and dashboards.",
+  "version": "1.1.0",
+  "author": {
+    "name": "chart.surf",
+    "url": "https://chart.surf"
+  },
+  "homepage": "https://chart.surf"
+}
